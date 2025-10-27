@@ -1,1 +1,1 @@
-![alt text](design\desktop-design.jpg)
+![alt text](design/desktop-design.jpg)
